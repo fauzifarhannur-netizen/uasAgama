@@ -1,0 +1,6 @@
+{
+  "name": "Adab dan Akhlak Islami",
+  "description": "Aplikasi pembelajaran interaktif mengenai akhlak sesama teman, adab harian, karakter diri, dan peduli lingkungan berdasarkan dalil Al-Qur'an dan Hadis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
