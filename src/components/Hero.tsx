@@ -78,22 +78,20 @@ export default function Hero({ onExploreClick }: HeroProps) {
           className="w-full mt-10 sm:mt-16 grid grid-cols-2 lg:grid-cols-4 gap-3 bg-white/5 border border-white/10 p-4 rounded-2xl backdrop-blur-md"
         >
           <div className="flex flex-col items-center p-3 text-center">
-            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">PILAR 1</span>
+            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 1</span>
             <span className="text-xs text-white font-semibold font-sans mt-1">Akhlak Pertemanan</span>
           </div>
 
           <div className="flex flex-col items-center p-3 text-center border-l border-white/10">
-            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">PILAR 2</span>
+            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 2</span>
             <span className="text-xs text-white font-semibold font-sans mt-1">Adab Harian Sunah</span>
           </div>
 
           <div className="flex flex-col items-center p-3 text-center border-l border-white/10 lg:pl-4">
-            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">PILAR 3</span>
-            <span className="text-xs text-white font-semibold font-sans mt-1">Karakter Diri</span>
-          </div>
+            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 3</div>
 
           <div className="flex flex-col items-center p-3 text-center border-l border-white/10 lg:pl-4">
-            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">PILAR 4</span>
+            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 4</span>
             <span className="text-xs text-white font-semibold font-sans mt-1">Peduli Lingkungan</span>
           </div>
         </motion.div>
