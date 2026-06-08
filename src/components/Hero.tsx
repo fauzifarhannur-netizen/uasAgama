@@ -11,7 +11,7 @@ export default function Hero({ onExploreClick }: HeroProps) {
       {/* Background Mosque Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://imgcdn.dev/i/YLawyK"
+          src="../../assets/Masjid_UNS.jpg"
           alt="Majestic Mosque Background"
           className="w-full h-full object-cover object-center opacity-35 scale-105 transition duration-1000"
           referrerPolicy="no-referrer"
