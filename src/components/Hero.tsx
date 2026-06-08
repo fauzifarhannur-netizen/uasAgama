@@ -88,7 +88,9 @@ export default function Hero({ onExploreClick }: HeroProps) {
           </div>
 
           <div className="flex flex-col items-center p-3 text-center border-l border-white/10 lg:pl-4">
-            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 3</div>
+            <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 3</span>
+            <span className="text-xs text-white font-semibold font-sans mt-1">Karakter Diri</span>
+          </div>
 
           <div className="flex flex-col items-center p-3 text-center border-l border-white/10 lg:pl-4">
             <span className="text-[10px] font-mono text-[#E8E2D6] font-semibold tracking-wider">Materi 4</span>
