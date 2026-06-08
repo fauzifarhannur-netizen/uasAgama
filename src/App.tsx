@@ -165,7 +165,7 @@ export default function App() {
             <span className="font-bold text-[#FDFBF7] font-serif text-sm">Hikmah – Media Pembelajaran Karakter Islami</span>
           </div>
           <p className="max-w-xl mx-auto leading-relaxed text-[11px] text-[#E8E2D6]/75 font-sans">
-            Aplikasi ini ditujukan untuk membimbing pelajar muslim dalam memahami dan mengamalkan prinsip-prinsip akhlak mulia dan adab sehari-hari berlandaskan dalil Al-Qur'an dan as-Sunnah ash-Shahihah.
+          farhan nur fauzi | K2525014 | fauzifarhannur@student.uns.ac.id
           </p>
           <div className="pt-4 border-t border-white/5 text-[10px] text-[#E8E2D6]/50 flex flex-col sm:flex-row items-center justify-between gap-2">
             <span>© {new Date().getFullYear()} Hikmah App. Dikembangkan untuk Kebaikan Generasi Shalih.</span>
