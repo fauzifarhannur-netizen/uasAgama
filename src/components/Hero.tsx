@@ -1,6 +1,6 @@
-import { motion } from "motion/react";
-import { BookOpen, Quote } from "lucide-react";
 import mosqueImage from "../../assets/Masjid_UNS.jpg";
+import { motion } from "motion/react";
+import { BookOpen, AlertCircle, Quote } from "lucide-react";
 
 interface HeroProps {
   onExploreClick: () => void;
