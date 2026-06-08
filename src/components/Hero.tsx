@@ -1,5 +1,6 @@
 import { motion } from "motion/react";
-import { BookOpen, AlertCircle, Quote } from "lucide-react";
+import { BookOpen, Quote } from "lucide-react";
+import mosqueImage from "../../assets/Masjid_UNS.jpg";
 
 interface HeroProps {
   onExploreClick: () => void;
@@ -11,7 +12,7 @@ export default function Hero({ onExploreClick }: HeroProps) {
       {/* Background Mosque Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="../../assets/Masjid_UNS.jpg"
+          src={mosqueImage}
           alt="Majestic Mosque Background"
           className="w-full h-full object-cover object-center opacity-35 scale-105 transition duration-1000"
           referrerPolicy="no-referrer"
